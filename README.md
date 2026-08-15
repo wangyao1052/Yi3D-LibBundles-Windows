@@ -10,7 +10,7 @@ This repository provides prebuilt third-party libraries needed to compile Yi3D u
 | OpenSceneGraph (OSG) | 3.6.5 | 3D rendering engine |
 | Qt 5 | 5.15.2 | Cross-platform UI framework |
 | Python 3 | 3.10 | Scripting language |
-| WYAF | 1.0.0 | WY application framework (wyap, wydb, wyrx, wy core) 
+| WYAF | 1.0.1 | WY application framework (wyap, wydb, wyrx, wy core) 
 
 ## Usage
 
