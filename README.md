@@ -12,6 +12,7 @@ This repository provides prebuilt third-party libraries needed to compile Yi3D u
 | Python 3 | 3.10 | Scripting language |
 | WYAF | wydb 1.0.2  wyap 1.0.2 | WY application framework (wyap, wydb, wyrx, wy core) |
 | ezdxf | 1.0.3 | Pure-Python DXF reader/writer for sketch import/export (MIT) |
+| ModelRefine | 1.0.0 | ModelRefine |
 
 ## Usage
 
@@ -24,6 +25,7 @@ After extraction the directory will look like:
 yi3d/
 └── 3rdParty/
     └── bundles/
+        ├── ModelRefine/
         ├── occt/
         ├── osg/
         ├── python3/
